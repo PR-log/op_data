@@ -1,0 +1,20 @@
+활용 논문 모음 
+
+Predicting Results for Professional Basketball Using NBA API Data
+
+Comparative Evaluation of Machine Learning Models for NBA Game Outcome Prediction
+
+Basketball on Paper: Rules and Tools for Performance Analysis
+
+Points Over Expectation: Using spatial data to evaluate shot quality
+
+Predicting NBA Game Outcomes Using a Long Short-Term Memory (LSTM) Neural Network
+
+The impact of travel and rest on NBA team performance
+
+Basketball through the lens of network analysis
+
+Choking under pressure: Evidence from the NBA
+
+Regularized Adjusted Plus-Minus (RAPM)
+
