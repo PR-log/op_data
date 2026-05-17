@@ -646,7 +646,7 @@ plt.show()
 <img width="686" height="394" alt="image" src="https://github.com/user-attachments/assets/128d2552-b682-42ed-86ee-ecd0b92f6e23" />
 <img width="849" height="394" alt="image" src="https://github.com/user-attachments/assets/9e6756cd-aedd-4ead-81d4-703a356196f8" />
 <img width="849" height="394" alt="image" src="https://github.com/user-attachments/assets/9fcb4e38-69d1-4a28-9ad2-3c6deb265607" />
-<img width="966" height="392" alt="image" src="https://github.com/user-attachments/assets/c47ab717-8bef-4d6e-b65e-cc129372efea" />
+<img width="966" height="392" alt="image" src="https://github.com/user-attachments/assets/c47ab717-8bef-4d6e-b65e-cc129372efea" />  
 
 ```
 import pandas as pd
@@ -711,7 +711,8 @@ plt.legend()
 plt.show()
 ```
 <img width="1189" height="495" alt="image" src="https://github.com/user-attachments/assets/7ce52e6a-afd2-4d4b-a736-8da74493df77" />
-<img width="838" height="394" alt="image" src="https://github.com/user-attachments/assets/6754fa20-ff87-420d-b14e-8565b6a318dc" />
+<img width="838" height="394" alt="image" src="https://github.com/user-attachments/assets/6754fa20-ff87-420d-b14e-8565b6a318dc" />    
+
 ```
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -748,7 +749,8 @@ plt.xlim(0, 33) # 텍스트가 잘리지 않도록 여백 확보
 plt.legend(loc='lower right')
 plt.show()
 ```
-<img width="966" height="374" alt="image" src="https://github.com/user-attachments/assets/f8f75dac-1cd1-4111-9c7e-e2bd2e9e45fd" />
+<img width="966" height="374" alt="image" src="https://github.com/user-attachments/assets/f8f75dac-1cd1-4111-9c7e-e2bd2e9e45fd" />    
+  
 ```
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -818,14 +820,14 @@ for i, row in importance_df.head(5).iterrows():
 ============================================================
 🧠 기계학습 모델 피처 중요도(Feature Importance) 시각화
 ============================================================
-<img width="1189" height="790" alt="image" src="https://github.com/user-attachments/assets/43bba4e3-139a-4934-8a09-80db8633f1d5" />
+<img width="1189" height="790" alt="image" src="https://github.com/user-attachments/assets/43bba4e3-139a-4934-8a09-80db8633f1d5" />    
 
 [Top 5 핵심 피처]
 1위: OPP_EFG_DIFF (0.2715)
 2위: ADJ_ACE_PIE_DIFF (0.1889)
 3위: EFG_PCT_DIFF (0.1447)
 4위: RECENT_EFG_DIFF (0.0591)
-5위: TOV_PCT_DIFF (0.0447)
+5위: TOV_PCT_DIFF (0.0447)  
 ```
 import pandas as pd
 import numpy as np
